@@ -10,11 +10,10 @@
 
 ### Skill Visualization
 
-![Skill Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=black)
+![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=notfawkes&theme=dark)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=notfawkes&show_icons=true&theme=black)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=notfawkes&theme=black)
 
 
 ---
