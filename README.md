@@ -1,67 +1,115 @@
-<!-- 🌟 Bala Sudalaimuthu - Special Repository 🌟 -->
+# Bala Sudalaimuthu
 
-<div align="center">
-
-# 🚀 **Welcome to My Special Repository**
-### _Where Ideas Turn Into Innovation_
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Bala+Sudalaimuthu;AI+%26+ML+Engineer;Web+Developer;Tech+Explorer" alt="Typing SVG" />
+**Email:** [bala010706@gmail.com](mailto:bala010706@gmail.com)  
+**Phone:** +91 8369877217  
+**Location:** Mumbai, India  
 
 ---
 
-### 💡 About This Repo
-✨ This is my **special repository**, a creative space where I experiment, build, and share my best works.  
-From **AI-powered apps** to **futuristic UI designs**, this repo is a reflection of my learning journey and projects that mean the most to me.
+## EXPERIENCE
+
+### **ACM SIGAI | Joint Technical Head**  
+*July 2025 – Present | Thakur College of Engineering and Technology (TCET)*
+
+- Developed a game-based website for the club’s event *Technologia*.  
+- Collaborated with team members to create a Flutter-based attendance system for club members.  
+- Contributed to the development of the *Technologia 2* event website.
 
 ---
 
-### 🧠 Tech Stack
+## PROJECTS
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### **Advisorly | AI-Based Financial Vault Web App**
+- Built a personal finance dashboard using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.  
+- Integrated **real-time stock analysis** and **AI models (Python, scikit-learn)** to predict spending patterns and provide investment insights.  
+- Implemented income/expense tracking, goal progress bars, overspending alerts, and interactive animations for user engagement.  
+- Developed API endpoints using **Node.js** and **Express.js**, and used **Supabase** for secure data storage.  
 
----
-
-### 🧩 Featured Projects
-
-| 🌍 Project | 🔍 Description | 💻 Tech Used |
-|------------|----------------|--------------|
-| **Ecosystem** | A social media app that promotes eco-friendly habits through community actions and rewards. | Flutter, Dart, Firebase |
-| **WealthifyAI** | An AI-powered finance tracker that predicts spending patterns & helps optimize budgets. | React, Node.js, ML |
-| **ThakurBot** | AI that analyzes past papers to predict exam trends & important questions. | Python, NLP, Streamlit |
+🔗 [Live Demo](https://advisorly-dobbys-projects-22112754.vercel.app)
 
 ---
 
-### 🌌 My Philosophy
+### **FitMeat | Online Food Ordering Website**
+- Designed and developed a full-stack web app using **React** and **Tailwind CSS** for the frontend, and **Node.js + Supabase** for the backend.  
+- Focused on health-conscious users (“gym rats”) seeking nutritional balance in meals.  
+- Implemented responsive UI, product listings, cart functionality, and order flow.  
+- Deployed via **Vercel** for seamless hosting.  
 
-> "_Innovation is born when imagination meets execution._"  
-> — Bala Sudalaimuthu
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=notfawkes&theme=radical" height="160" />
-</p>
+🔗 [Live Demo](https://fit-meat.vercel.app)
 
 ---
 
-### 🌐 Connect With Me
+### **BunkCheck | Personal Attendance Tracker (Database-less)**
+- Developed a lightweight attendance tracking web app using **React** and **Node.js**, storing data locally with browser *LocalStorage*.  
+- Designed a clean and intuitive UI for monitoring attendance and missed classes.  
+- Optimized for simplicity and performance without requiring a backend.  
+- Deployed on **Vercel** for accessibility and fast loading.  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/notfawkes)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+🔗 [Live Demo](https://bunk-check.vercel.app)
 
 ---
 
-✨ _Thanks for visiting my special space!_  
-⭐ _If you like what you see, consider giving this repo a star!_
+## EDUCATION
 
-</div>
+**Bachelor of Technology (B.Tech.) – Artificial Intelligence and Machine Learning**  
+*Thakur College of Engineering and Technology, Mumbai*  
+Expected Graduation: July 2028  
+- Dean’s List (Semester I and II)  
+- Cumulative GPA: **9.61 / 10.0**
+
+---
+
+## AWARDS
+
+- Winner, *Mathematics Olympiad 2025* (Round 1 & 2)
+
+---
+
+## SKILLS
+
+### Programming Languages
+| Skill | Proficiency |
+|:------|:-------------|
+| Java | ██████████ 100% |
+| C / C++ | █████████ 90% |
+| JavaScript | ████████ 80% |
+| Python | ███████ 70% |
+| React.js | ███████ 70% |
+| Node.js | ███████ 70% |
+| Next.js | ██████ 60% |
+| Spring Boot | █████ 50% |
+| Tailwind CSS | █████ 50% |
+| Flutter / React Native | ███ 30% |
+
+### Technologies
+- Git & GitHub  
+- Docker  
+- Generative AI  
+- Automation  
+- Artificial Intelligence  
+
+---
+
+## COURSEWORK
+
+- Artificial Intelligence  
+- Data Analysis I  
+- Introduction to Probability  
+
+---
+
+## SOCIETIES
+
+- **Association for Computing Machinery (ACM)**  
+- **Special Interest Group on Artificial Intelligence (SIGAI)**
+
+---
+
+## LINKS
+
+- **GitHub:** [github.com/notfawkes](https://github.com/notfawkes)  
+- **LinkedIn:** [linkedin.com/in/bala-sudalaimuthu-a34b53355](https://www.linkedin.com/in/bala-sudalaimuthu-a34b53355)
+
+---
+
+> _This README version of my resume showcases my academic and technical journey in a structured, open-source format._
