@@ -64,7 +64,7 @@ Dean’s List (Sem I & II) | GPA: **9.61 / 10.0**
 
 ### Skill Visualization
 
-![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=graywhite)
+![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=black)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=graywhite)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=notfawkes&theme=graywhite)
@@ -91,5 +91,3 @@ Artificial Intelligence • Data Analysis I • Introduction to Probability
 [GitHub](https://github.com/notfawkes) | [LinkedIn](https://www.linkedin.com/in/bala-sudalaimuthu-a34b53355)
 
 ---
-
-*This README version of my resume is formatted for GitHub — fully functional, graph-supported, and visually dynamic without blocked scripts or inline CSS.*
