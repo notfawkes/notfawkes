@@ -12,9 +12,7 @@
 
 ![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=notfawkes&theme=dark)
-
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=notfawkes&show_icons=true&theme=black&cache_seconds=60)
 
 ---
 
