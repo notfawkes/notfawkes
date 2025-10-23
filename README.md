@@ -64,10 +64,10 @@ Dean’s List (Sem I & II) | GPA: **9.61 / 10.0**
 
 ### Skill Visualization
 
-![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=black)
+![Skill Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=notfawkes&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=graywhite)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=notfawkes&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfawkes&show_icons=true&theme=github_dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=notfawkes&theme=github_dark)
 
 ---
 
